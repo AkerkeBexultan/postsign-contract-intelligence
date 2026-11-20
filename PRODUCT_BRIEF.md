@@ -175,4 +175,4 @@ Before building any of this, one question per feature: **does this shorten the t
 
 ---
 
-*Prototype built with React, Vite, Tailwind CSS and Zustand using Replit Agent. All data is mocked. [Try the live prototype](LIVE_PROTOTYPE_LINK).*
+*Prototype built with React, Vite, Tailwind CSS and Zustand using Replit Agent. All data is mocked. [Try the live prototype](https://contract-intelligence-hub-AkerkeBexultan.replit.app).*
