@@ -36,9 +36,6 @@ AI summaries, clause extraction and search are now commodity features. Postsign 
 3. **Human-managed risk.** A signed contract can't be rewritten, but its risk can be managed. When a risk is mitigated (for example, insurance obtained), a user can lower its level, with a required note and a full audit trail. The AI's original assessment is always kept.
 
 | | |
-|---|---|
-| ![Flagged clause with AI annotation](images/contract-detail.png) | ![Risk override with audit trail](images/risk-override.png) |
-| *A flagged clause with its AI explanation* | *Risk adjusted by a human, with the AI baseline preserved* |
 
 ## Key product decisions
 
@@ -62,7 +59,7 @@ Every session follows the same four steps, whatever the role:
 
 ## Try the prototype in 2 minutes
 
-1. Open the **[live prototype](LIVE_PROTOTYPE_LINK)**. All data is mocked.
+1. Open the **[live prototype]([LIVE_PROTOTYPE_LINK](https://contract-intelligence-hub-AkerkeBexultan.replit.app)**. All data is mocked.
 2. Use the persona switcher in the top navigation to compare the **Legal**, **Procurement** and **Executive** views.
 3. Open the **Salesforce CRM Enterprise** contract. Find the flagged liability clause and create a task from it.
 4. In **Contracts → Risk Exposure**, click a risk badge to adjust it, then check the audit trail on the contract page.
