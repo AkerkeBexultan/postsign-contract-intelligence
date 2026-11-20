@@ -6,8 +6,6 @@
 
 *Product case study by Akerke Bexultan · Originally developed for a Signit product challenge, June 2026*
 
-![Postsign Insights dashboard](images/insights.png)
-
 ---
 
 ## The problem
