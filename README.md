@@ -2,8 +2,6 @@
 
 > Contracts get all the attention before they're signed, then get forgotten. Postsign keeps signed contracts live: AI flags the risks, each role sees what matters to them, and every insight becomes a tracked action.
 
-**[▶ Try the live prototype](LIVE_PROTOTYPE_LINK)** · **[Read the full product brief](PRODUCT_BRIEF.md)**
-
 *Product case study by Akerke Bexultan · Originally developed for a Signit product challenge, June 2026*
 
 ---
